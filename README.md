@@ -48,4 +48,3 @@ We can see that of the 90,396 potential spaces that need to be filled due to ret
 
 If we change to criteria for the mentorship program to employees born between 1961 and 1965, there are 75,319 employees eligible for the mentorship program and 33,413 senior level employees to mentor 57,668 vacancies. That means there is one senior level mentor for every new senior level employee.
 
-
