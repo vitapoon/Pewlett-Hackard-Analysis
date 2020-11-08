@@ -44,5 +44,8 @@ The current criteria for this analysis is to find employees born in 1965 and hav
 
 ## Summary
 
-we can see that of the 90,396 potential spaces that need to be filled due to retirement, there are only 1,550 employees currently eligible to mentor new employees to fill those positions. That means there is one mentor for every 58 new employees. More importantly, there is only 741 senior level employees eligible to mentor 57,668 vacancies. That means there is one senior level mentor for every 77 new senior level employee.
+We can see that of the 90,396 potential spaces that need to be filled due to retirement, there are only 1,550 employees currently eligible to mentor new employees to fill those positions and only 741 senior level employees eligible to mentor 57,668 vacancies. That means there is one senior level mentor for every 77 new senior level employee.
+
+If we change to criteria for the mentorship program to employees born between 1961 and 1965, there are 75,319 employees eligible for the mentorship program and 33,413 senior level employees to mentor 57,668 vacancies. That means there is one senior level mentor for every new senior level employee.
+
 
