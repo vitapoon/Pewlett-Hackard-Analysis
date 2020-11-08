@@ -37,8 +37,12 @@ The current criteria for this analysis is to find employees born in 1965 and hav
 
 4, 724 employees are staff
 
-5, There are no managers eligible for this program based on the current criteria
+### Mentorship Program
 
+![Screen Shot 2020-11-09 at 12 05 51 AM](https://user-images.githubusercontent.com/71739110/98470285-955a8480-221f-11eb-95ba-4e84ff7a243b.png)
 
 
 ## Summary
+
+we can see that of the 90,396 potential spaces that need to be filled due to retirement, there are only 1,550 employees currently eligible to mentor new employees to fill those positions. That means there is one mentor for every 58 new employees. More importantly, there is only 741 senior level employees eligible to mentor 57,668 vacancies. That means there is one senior level mentor for every 77 new senior level employee.
+
